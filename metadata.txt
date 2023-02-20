@@ -1,0 +1,36 @@
+---
+title:
+- type: main
+  text: Surfing AI
+creator:
+- role: author
+  text: "Autore: Emanuele Peratello"
+- role: editor
+  text: "Editore: Emanuele Peratello"
+- role: Cover Designer
+  text: "Grafico: Emanuele Peratello"
+publisher: 
+- role: publisher
+  text: me stesso
+date:
+- role: date
+  text: 2023-02-19
+language: 
+- role: language
+  text: it-IT
+description: guida all'intelligenza artificiale
+subject:
+- role: topic
+  text: /
+rights: 
+- role: rights
+  text: "Copyright © 2023, Emanuele Peratello. All rights reserved."
+identifier:
+  - role: isbn
+    text: 999-1-234567-89-0
+  - role: doi
+    text: "12.3456/example"
+stylesheet: epub.css
+cover-image: cover.jpg
+...
+
